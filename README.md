@@ -4,5 +4,5 @@ This calculator works with the compound interest formula:
 2) The interest rate 
 3) How long shall this interest be accrued for (years)
 
-The calculator then tell you the value of your initial value after the specified number of years.
+The calculator then tell you the value of your principle amount after the specified number of years.
 
